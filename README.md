@@ -7,9 +7,14 @@ This repository contains our group project files for object detection experiment
 - fast_rcnn.zip
 - faster_rcnn.zip
 
+## Additional file
+The file `yolo.zip` is too large to upload directly to GitHub.
+
+Download link: 【https://pan.baidu.com/s/1BgTpdbSZlhm0U-1vHVjB1Q?pwd=3ag8】  
+Extraction code: 【3ag8】
+
 ## Note
-The file `yolo.zip` was not uploaded to GitHub because it exceeded the web upload size limit.  
-If needed, it can be shared separately via cloud storage.
+If needed, the complete project files can also be provided separately.
 
 ## Author
 yanghonglong485-boop
